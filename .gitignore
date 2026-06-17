@@ -1,0 +1,53 @@
+# CMake build directories
+cmake-build-*/
+build/
+out/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# CLion / JetBrains
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Compiler outputs
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.dSYM/
+
+# Debug / sanitizer artifacts
+*.profraw
+*.profdata
+*.gcda
+*.gcno
+asan.log*
+ubsan.log*
+tsan.log*
+lsan.log*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Local editor settings
+.vscode/
