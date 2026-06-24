@@ -70,12 +70,6 @@ endfunction()
 
 add_concept(indexed-vector-is-lvalue)
 add_concept(odr-inline-vs-static-vs-namespace)
+add_concept(braced-initialization-return)
 
-#add_concept(noexcept_vector_bad)
-#add_concept(noexcept_vector_good)
-#
-#add_concept(lambda_lifetime_bad)
-#add_concept(lambda_lifetime_good)
-#
-#add_concept(erase_iteration_bad)
-#add_concept(erase_iteration_good)
+
