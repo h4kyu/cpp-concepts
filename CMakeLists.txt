@@ -71,5 +71,6 @@ endfunction()
 add_concept(indexed-vector-is-lvalue)
 add_concept(odr-inline-vs-static-vs-namespace)
 add_concept(braced-initialization-return)
+add_concept(nodiscard)
 
 
